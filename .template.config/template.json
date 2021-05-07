@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Adrià Freixas",
+    "classifications": ["Code","Solution"],
+    
+    "defaultName": "TDD",
+    "identity": "Test.Driven.Develoment",
+    "name": "test driven develoment template",
+    "shortName": "tdd",
+    "tags": {
+      "language": "C#",
+      "type": "solution"
+    },
+    "sourceName": "replaceName",
+    "primaryOutputs": [
+        {
+            "path":"replaceName.sln"
+        }
+    ]
+  }
